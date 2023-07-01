@@ -1,0 +1,16 @@
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Complete_Payment.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Form1.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Manager_login.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Menu_Management.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Main.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Properties.Resources.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.csproj.GenerateResource.cache
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.exe
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.pdb
+C:\Users\황정민\source\repos\기말프로젝트\bin\x64\Debug\기말프로젝트.exe.config
+C:\Users\황정민\source\repos\기말프로젝트\bin\x64\Debug\기말프로젝트.exe
+C:\Users\황정민\source\repos\기말프로젝트\bin\x64\Debug\기말프로젝트.pdb
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.csproj.AssemblyReference.cache
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.AddMenuForm.resources
+C:\Users\황정민\source\repos\기말프로젝트\obj\x64\Debug\기말프로젝트.Payment.resources

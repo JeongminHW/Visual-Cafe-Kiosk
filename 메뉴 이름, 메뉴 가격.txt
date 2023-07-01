@@ -1,0 +1,30 @@
+menuName	menuPrice	menuCategory
+핫 아메리카노	₩2,000		coffee1
+아이스 아메리카노	₩2,000		coffee2
+핫 카페라떼	₩2,500		coffee3
+아이스 카페라떼	₩2,500		coffee4
+핫 카페모카	₩2,500		coffee5
+아이스 카페모카	₩2,500		coffee6
+핫 카푸치노	₩2,700		coffee7
+아이스 카푸치노	₩2,700		coffee8
+핫 바닐라라떼	₩2,700		coffee9
+아이스 바닐라라떼	₩2,700		coffee10
+핫 초콜릿		₩3,200		beverage1
+아이스 초콜릿	₩3,200		beverage2
+핫 화이트 초콜릿	₩3,200		beverage3
+아이스 화이트 초콜릿	₩3,200		beverage4
+핫 녹차라떼	₩3,000		beverage5
+아이스 녹차라떼	₩3,000		beverage6
+핫 고구마라떼	₩3,000		beverage7
+아이스 고구마라떼	₩3,000		beverage8
+초콜릿 칩 스무디	₩3,500		smoothie1
+녹차 스무디		₩3,000		smoothie2
+자몽 스무디		₩3,500		smoothie3
+망고 스무디		₩3,500		smoothie4
+플레인 요거트 스무디	₩3,500		smoothie5
+플레인 쉐이크	₩3,500		shake1
+초코쿠키 쉐이크	₩3,700		shake2
+딸기 쉐이크	₩3,700		shake3
+레몬 에이드	₩3,300		ade1
+청포도 에이드	₩3,300		ade2
+자몽 에이드	₩3,300		ade3
